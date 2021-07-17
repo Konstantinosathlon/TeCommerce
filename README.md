@@ -1,6 +1,6 @@
 # TeCommerce
 
-TeCommerce is a project i made in React that uses [Commerce.js](https://commercejs.com/) as a database and cart handler.
+TeCommerce is an ecommerce project i made in React that uses [Commerce.js](https://commercejs.com/) as a database and cart handler.
 
 ## Screenshot
 
