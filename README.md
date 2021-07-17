@@ -9,9 +9,12 @@ TeCommerce is an ecommerce project i made in React that uses [Commerce.js](https
 -Payment method.
 
 
-## Screenshots
+## Demo Video
 
-![vid](https://user-images.githubusercontent.com/79989252/126049497-8a23fa3e-343d-43c2-8cea-27fb311712ac.mp4)
+
+[!video](https://user-images.githubusercontent.com/79989252/126049791-169e2377-f005-4fa9-a114-1fbca492719d.mp4)
+
+
 
 ## Available Scripts
 
