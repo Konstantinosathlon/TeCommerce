@@ -11,9 +11,7 @@ TeCommerce is an ecommerce project i made in React that uses [Commerce.js](https
 
 ## Screenshots
 
-<!-- ![scn](https://github.com/Konstantinosathlon/TeCommerce/blob/master/screenshots/tcom1.png)
-
-![scn](https://github.com/Konstantinosathlon/TeCommerce/blob/master/screenshots/tcom2.png) -->
+![vid](https://user-images.githubusercontent.com/79989252/126049497-8a23fa3e-343d-43c2-8cea-27fb311712ac.mp4)
 
 ## Available Scripts
 
