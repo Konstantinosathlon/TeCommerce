@@ -39,10 +39,10 @@ function ProductHero(props) {
       
       <img style={{ display: 'none' }} src={backgroundImage} alt="increase priority" />
       <Typography color="inherit" align="center" variant="h2" marked="center" style={{ marginTop: "80px", position: "relative"}} >
-        Upgrade your Sundays
+        Upgrade your PC
       </Typography>
       <Typography color="inherit" align="center" variant="h5" className={classes.h5}>
-        Enjoy secret offers up to -70% off the best luxury hotels every Sunday.
+        Offers up to -15% off for Top GPU models
       </Typography>
       <Button
         color="secondary"
