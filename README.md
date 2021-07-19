@@ -4,9 +4,9 @@ TeCommerce is an ecommerce project i made in React that uses [Commerce.js](https
 
 ## Remaining steps to completion
 
--Register and Login features.
+* Register and Login features.
 
--Payment method.
+* Payment method.
 
 
 ## Demo Video
