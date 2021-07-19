@@ -2,7 +2,7 @@
 
 TeCommerce is an ecommerce project i made in React that uses [Commerce.js](https://commercejs.com/) as a database and cart handler.
 
-## Remaining steps to complete
+## Remaining steps to completion
 
 -Register and Login features.
 
